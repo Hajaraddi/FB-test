@@ -1,0 +1,86 @@
+.header{
+    background-color: rgba(8, 8, 114, 0.774);
+    justify-content: space-between;
+    margin-top: 0px;
+    height: 100px;
+    margin-left: -7.3px;
+    margin-right: -6rem;
+    display: block;
+   
+}
+main{
+    background: linear-gradient(to bottom, #ffffff,#a9c6e7);
+}
+.logo{
+    text-decoration: none;
+    float: left;
+    margin-right: 38rem;
+     margin-left: 2rem;
+     margin-top: 1.4rem;
+    font-size: 32px;
+    color: azure;
+    font-weight: bold;
+   
+   
+}
+.form-group{
+    margin-bottom: 15px;
+    text-align: left;
+
+    
+}
+.form-group label{
+    display: block;
+    color: white;
+    
+}
+.btn{
+    margin-left: 3rem;
+    color:rgb(255, 255, 255);
+    background-color: rgb(14, 14, 146);
+    border: none;
+    font-size: 17px;
+
+
+}
+.section1{
+    display: flex;
+}
+.half{
+        flex: 1;
+        padding: 10px;
+ }
+.section1 img{
+    width: 40rem;
+}
+
+.section1 .p1{
+    font-size: larger;
+    font-weight: 600;
+    margin-top: 2.5rem;
+    color: rgb(33, 33, 143);
+}
+#fg{
+    width: 120px;
+    display:block;
+    
+}
+
+ section div #lb{
+    font-size: 20px;
+}
+
+.p2{
+    color: grey;
+}
+.p2 span{
+    color: rgb(6, 6, 238);
+}
+section button{
+    font-size: 50px;
+    color: #fff;
+    background-color: rgb(62, 121, 62);
+    box-shadow: 5px;
+    border-radius: 5px;
+    
+}
